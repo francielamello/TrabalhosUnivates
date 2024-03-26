@@ -1,0 +1,25 @@
+# Arquivos de compilação Python
+*.pyc
+*.pyo
+__pycache__
+
+# Ambientes virtuais
+venv/
+env/
+*.env
+
+# Logs e arquivos de cache
+*.log
+*.cache
+
+# Arquivos gerados pela IDE
+.vscode/
+.idea/
+
+# Dependências instaladas
+/venv
+/.venv
+*.egg-info
+dist/
+build/
+*.egg
